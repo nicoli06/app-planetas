@@ -1,6 +1,6 @@
-# myapp
+# AppPlanetas
 
-A new Flutter project.
+App desenvolvido com intuito de obtenção de nota na matéria de Desenvolvimento de Aplicativos Móveis, para aprovação no curso Talento Tech - Turma 2024 - 2025.
 
 ## Getting Started
 
